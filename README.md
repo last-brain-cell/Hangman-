@@ -1,4 +1,4 @@
-Hangman-
+<h1>Hangman</h1>
 
 This is a simple Python program that implements the classic Hangman game. The game randomly selects a word from a list of words, and the player has to guess the word one letter at a time. The player has a limited number of guesses before they lose the game.
 
